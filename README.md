@@ -4,7 +4,7 @@
 
 💡 &nbsp;Soy un desarrollador web fullstack y me encuentro en la búsqueda de un trabajo que me permita aportar con mis cocimientos y me incentive a seguir sumando skills diariamente.\
 🎓 &nbsp;Actualmente estoy en el primer año de la carrera de Ingeniería Informática y trabajando en el proyecto de final de curso fullstack MERN en Rolling Code.\
-✍️ &nbsp;En mi tiempo libre me gusta aprender electrónica particularmente sobre motherboards, y tambien hacer música 😁🎸🥁.\
+✍️ &nbsp;En mi tiempo libre me gusta aprender sobre novedades dentro del campo de desarrollo web, electrónica particularmente sobre motherboards, y tambien hacer música 😁🎸🥁.\
 ✉️ &nbsp;Podes contactarme por correo <a href="mailto:dylanrubennavarro@gmail.com">dylanrubennavarro@gmail.com</a>
 
 ### 🛠 &nbsp;Mis skills
